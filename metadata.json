@@ -1,0 +1,7 @@
+{
+  "name": "VENTRU Sport Clothe",
+  "description": "High-performance men's sport clothing runway lookbook where six athletic looks stand in a line into the distance with synchronized product discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
